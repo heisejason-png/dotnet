@@ -222,5 +222,5 @@ For other issues, please open them in the appropriate product repos. We have lin
 ## License
 
 .NET is licensed under the [MIT](LICENSE.TXT) license.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
